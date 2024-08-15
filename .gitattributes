@@ -1,2 +1,38 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-deps
+.packages
+.pub/
+build/
+pubspec.lock
+
+# IDE related
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea
+
+# iOS
+*.xcworkspace
+*.xcuserstate
+*.xcscheme
+*.xccheckout
+*.xcodeproj/*
+!*.xcodeproj/xcshareddata
+!*.xcodeproj/project.pbxproj
+*.xcodeproj/xcuserdata
+*.xcodeproj/xcuserdata
+
+# Others
+*.log
+*.tmp
