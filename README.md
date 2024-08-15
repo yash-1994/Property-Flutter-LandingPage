@@ -22,3 +22,23 @@ To get this project up and running on your local machine, follow these steps:
 ```bash
 git clone https://github.com/yourusername/property-landing-page.git
 cd property-landing-page
+
+### 1. Download Flutter Packages
+
+```bash
+flutter pub get
+```
+
+### 2. Run the Application
+
+```bash
+flutter run
+```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📝 Authors
+
+* **YASH FADADU** - *Initial work* - [Your Profile](https://github.com/yourusername)
