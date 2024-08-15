@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📝 Authors
 
-* **YASH FADADU** - *Initial work* - [Your Profile](https://github.com/yourusername)
+* **YASH FADADU** - *Initial work* - [Your Profile](https://github.com/yash-1994)
