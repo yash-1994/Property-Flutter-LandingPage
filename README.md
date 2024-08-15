@@ -8,8 +8,8 @@ Welcome to the **Property Landing Page** Flutter project! This single-screen app
 
 Check out the stunning design of the landing page:
 
-![Property Landing Page](images/screenshot1.png)
-![Property Landing Page](images/screenshot2.png)
+![Property Landing Page](screenshots/ss1.png)
+![Property Landing Page](screenshots/ss2.png)
 
 *Add more images if needed in the `images` directory.*
 
