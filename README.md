@@ -28,6 +28,7 @@ To get this project up and running on your local machine, follow these steps:
 ```bash
 git clone https://github.com/yourusername/property-landing-page.git
 cd property-landing-page
+```
 
 ### 1. Download Flutter Packages
 
